@@ -63,6 +63,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
+		<finalName>kafka-producer-consumer-workflow</finalName>
 	</build>
 
 </project>
